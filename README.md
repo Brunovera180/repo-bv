@@ -1,4 +1,4 @@
-## Este es mi repocitorio
+## Este es mi repositorio
 
 ### alumnos
 
