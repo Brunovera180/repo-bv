@@ -14,5 +14,6 @@ this project runs on port 3000
 
 
 to run the container use:
-     docker run --name "name" -itd -p 3000:3000 "image"
+
+    docker run --name "name" -itd -p 3000:3000 "image"
 
